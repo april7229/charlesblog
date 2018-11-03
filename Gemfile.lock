@@ -1,4 +1,4 @@
-GEM
+herherokGEM
   remote: http://rubygems.org/
   specs:
     actioncable (5.0.7)
